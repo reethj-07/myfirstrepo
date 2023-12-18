@@ -1,2 +1,3 @@
 # myfirstrepo
-this is my first git repo
+this is my first git repositry.
+Author - Reeth Jain
